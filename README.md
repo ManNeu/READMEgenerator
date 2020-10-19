@@ -20,6 +20,9 @@ The app is required for user who works in different projects. In day to day life
 ### Built With
 The application is built using VS Code. The code can be run in terminal using node to generate README.
 
+# gif of app
+![README gif](gif/assignment9screenrecordgif.gif);
+
 ### Github Username
 ManNeu
 
