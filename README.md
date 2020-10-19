@@ -27,7 +27,7 @@ The application is built using VS Code. The code can be run in terminal using no
 ManNeu
 
 ### Github Link
-(https://manneu.github.io/Assignment9/)
+(https://github.com/ManNeu/READMEgenerator)
 
 ### Author
 Manish Neupane
@@ -39,3 +39,4 @@ mrnish.are@gmail.com
 Instructors
 
 ### License
+ISC
